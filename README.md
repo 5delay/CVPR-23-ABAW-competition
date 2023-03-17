@@ -7,4 +7,3 @@ We conducted the task on Emotional Reaction Intensity (ERI) Estimation Challenge
 # Reference
 https://github.com/yaoing/DAN
 
-https://github.com/cydonia999/VGGFace2-pytorch
